@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(Green\ Tunnel.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+a{
+    font-size: 300%;
+    color: rgb(0, 247, 255);
+    outline: auto;
+    background-color: black;
+}
+
+.TheOthers{
+    text-align: center;
+    color: rgb(0, 255, 242);
+    font-size: 80%;
+}
+
+h2{
+    text-align: center;
+    color: rgb(0, 255, 34);
+    text-decoration: underline;
+}
+
+.hover-link {
+    text-decoration: none; /* Removes the default underline */
+    color: rgb(0, 238, 255); /* Set the initial color of the text */
+}
+
+.hover-link:hover {
+    color: rgb(0, 26, 255); /* Change the color when hovering */
+    text-decoration: underline; /* Add the underline when hovering */
+}
+
+#Title {
+    display: block; /* Makes the image act like a block element */
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%; /* Optional: Adjust width as needed */
+}
+
+.Images1{
+    
+}
